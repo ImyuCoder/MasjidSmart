@@ -14,6 +14,9 @@ Informasi Mustahiq Terdekat: Menyediakan informasi tentang mustahiq yang membutu
 ERP Masjid: Sistem perencanaan sumber daya yang terintegrasi untuk manajemen masjid yang lebih baik.
 
 Tujuan:
+
 Meningkatkan efisiensi dan transparansi dalam pengelolaan masjid.
+
 Memperkuat peran masjid sebagai pusat kegiatan agama dan sosial.
+
 Memberikan solusi digital yang inovatif untuk kebutuhan masjid modern.
