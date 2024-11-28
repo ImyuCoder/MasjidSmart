@@ -1,22 +1,37 @@
-# MasjidSmart
-MasjidSmart adalah aplikasi inovatif untuk digitalisasi dan manajemen masjid. Fitur utama meliputi pendataan masjid, pencatatan keuangan, manajemen Zizwaf, dan informasi mustahiq terdekat. Aplikasi ini bertujuan meningkatkan efisiensi dan transparansi dalam pengelolaan masjid.
+# Masjid Baiturrohim Curug
 
-Fitur Utama:
+Website resmi Masjid Baiturrohim Curug. Website ini memberikan informasi tentang kegiatan, manajemen, dan profil Masjid Baiturrohim Curug.
 
-Pendataan Masjid: Memudahkan pendataan dan pengelolaan informasi masjid.
+## Fitur Utama
 
-Pencatatan Keuangan: Mencatat dan melaporkan transaksi keuangan dengan transparan.
+- **Tentang Kami**: Informasi tentang sejarah dan tujuan Masjid Baiturrohim Curug.
+- **Manajemen Masjid**: Penjelasan tentang manajemen masjid yang diterapkan.
+- **Profil Masjid**: Profil lengkap Masjid Baiturrohim Curug.
+- **Relawan Masjid Internasional**: Informasi tentang program relawan dan kerjasama internasional.
+- **Suffah Masjid**: Fasilitas penginapan syar’i di kompleks masjid.
+- **Event Kampoeng Ramadhan**: Informasi tentang event tahunan yang diadakan setiap bulan Ramadhan.
 
-Manajemen Zizwaf: Mengelola zakat, infaq, sedekah, dan wakaf dengan lebih efektif.
+## Teknologi yang Digunakan
 
-Informasi Mustahiq Terdekat: Menyediakan informasi tentang mustahiq yang membutuhkan bantuan di sekitar masjid.
+- HTML
+- CSS
+- JavaScript
+- [WordPress](https://wordpress.org/)
 
-ERP Masjid: Sistem perencanaan sumber daya yang terintegrasi untuk manajemen masjid yang lebih baik.
+## Tujuan
 
-Tujuan:
+- Meningkatkan efisiensi dan transparansi dalam pengelolaan masjid.
+- Memperkuat peran masjid sebagai pusat kegiatan agama dan sosial.
+- Memberikan solusi digital yang inovatif untuk kebutuhan masjid modern.
 
-Meningkatkan efisiensi dan transparansi dalam pengelolaan masjid.
+## Kontribusi
 
-Memperkuat peran masjid sebagai pusat kegiatan agama dan sosial.
+Kami menyambut kontribusi dari siapa saja. Jika Anda ingin berkontribusi, silakan fork repository ini dan buat pull request dengan perubahan yang Anda usulkan.
 
-Memberikan solusi digital yang inovatif untuk kebutuhan masjid modern.
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## Kontak
+
+Untuk informasi lebih lanjut, kunjungi [Masjid Baiturrohim Curug] (https://masjidBaiturrohimcurug.com/).
